@@ -1,0 +1,12 @@
+
+ Methods = CM_neigh, bayes, Katz, NDP_cand, tensor_eig, 
+ Dataset = uchoice_Walmart_Depts
+
+ candset_opt = mns
+
+ ratio for non existing and existing hyperedges in candidate set = 3
+
+ CM_neigh done  at Wed Mar  3 13:06:27 2021
+ bayes done  at Wed Mar  3 13:07:05 2021
+ Katz done  at Wed Mar  3 13:09:51 2021
+ NDP_cand done  at Wed Mar  3 13:12:21 2021
